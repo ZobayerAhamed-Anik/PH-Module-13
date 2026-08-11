@@ -4,6 +4,7 @@ function factorial(number){
     if(number === 0){
         return 1;
     }
+    
     let fact = 1;
     for(let i = number; i > 0; i--){
     fact *= i;

@@ -1,0 +1,12 @@
+1.  Syntex is just a tool, problem-solving is the job
+2.  Steps to solve a problem:
+    2.1 Understanding
+    2.2 Breaking down
+    2.3 Plannig
+
+3. Every problem we solve will eventually live inside a function, and that function must return its answer.
+    3.1 console.log(); --> peeks at the answer
+    3.2 return --> delivers the answer
+
+example: - Add two number add(a,b)-> return sum;
+-   Same logic inside , only the delivery changes;

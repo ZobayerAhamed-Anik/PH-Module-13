@@ -1,6 +1,6 @@
 //Problem-3: Factorial of a Number...
 
-function factorial(number){
+function getFactorial(number){
     if(number === 0){
         return 1;
     }
@@ -12,4 +12,4 @@ function factorial(number){
     return fact;
 }
 
-console.log(factorial(7));
+console.log(getFactorial(7));

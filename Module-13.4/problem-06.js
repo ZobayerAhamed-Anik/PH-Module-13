@@ -1,0 +1,1 @@
+//Problem 6: Count Vowel in a String. vowel =['a', 'e', 'i', 'o', 'u']
